@@ -31,6 +31,7 @@ nnoremap gk k
 nnoremap gj j
 nmap ; :
 
+hi MatchParen cterm=bold ctermbg=none ctermfg=magenta
 " Vundle-required configuration
 " To install Vundle:
 " $ git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
